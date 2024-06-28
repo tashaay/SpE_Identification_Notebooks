@@ -16,7 +16,7 @@
 - **E_layer_densities_and_Crit_freqs.ipynb**
   - Interrogating the M+ densities and critical frequencies where Es layers are identified by the algorithm, and plotting histograms
 - **Es_ID_Combine_Imgs.ipynb**
-  - # Combining images for different criteria sets from Figures/Wuhu_IonTr_run/Es_ID (Individual_Es_Plot.ipynb) - Plots of individual Es events for criteria A, H, I and M
+  - Combining images for different criteria sets from Figures/Wuhu_IonTr_run/Es_ID (Individual_Es_Plot.ipynb) - Plots of individual Es events for criteria A, H, I and M
 - **Individual_Es_Plot.ipynb**
   - Plotting individual Es layer occurence events (alt vs local time) in June and Dec
 - **Mag_Lats_Contour_Lines.ipynb**
