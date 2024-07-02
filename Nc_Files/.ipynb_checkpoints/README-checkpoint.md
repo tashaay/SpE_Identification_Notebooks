@@ -42,7 +42,7 @@
     - mod_s4max_80-130km.nc
         - Same as 'mod_s4max.nc' but sliced between 80 and 130 km. Dimensions for all variables: nfile(6449380). Data processed in *'Old_Notebooks/COSMIC_23-09_s4_data_transformation step 1.ipynb'* notebook.
     - s4max_raw_2007_2018.h5 
-        - Not sure what this is, I think possibly downloaded from COSMIC-1 website? https://cdaac-www.cosmic.ucar.edu/cdaac/cgi_bin/fileFormats.cgi?type=scnLv1
+        - Downloaded from COSMIC-1 website https://cdaac-www.cosmic.ucar.edu/cdaac/cgi_bin/fileFormats.cgi?type=scnLv1
 
 **SpE_Output**
 - Symbolic link, points to -> /usr/not-backed-up/sestay/SpE_Output
@@ -54,4 +54,4 @@
 **spectral_files**
 - Symbolic link, points to -> /localhome/sestay/spectral_files
 - Output from *'Solar Irradiance.ipynb'* notebook : generating NC files for new SpE SMin and SMax runs
-- Also contains solar files that were used in Wuhu's WACCM run(s?) used to produce the above
+- Also contains solar files that were used in Wuhu's WACCM run used to produce the above

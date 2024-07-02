@@ -3,14 +3,12 @@
 
 ## Contents : Notebooks:
     
-- **COSMIC_Daviddata_data_processing.ipynb**
+- **COSMIC_data_processing.ipynb**
   - Processing (and plotting) COSMIC dataset sent from David Themens - to put into desired bins and calculate occurence freq
-- **COSMIC_Daviddata_Mag_Lats_Interp.ipynb**
+- **COSMIC_Mag_Lats_Interp.ipynb**
   - Interpolating David's (processed) COSMIC data onto magnetic latitude, and plotting lat-line plot with equivalent WACCM data
-- **COSMIC_WACCM_Plotting-Daviddata-FINAL_CRITERIA_0.25sigma_2xMpza_1peak.ipynb**
+- **COSMIC_WACCM_Plotting-FINAL_CRITERIA_0.25sigma_2xMpza_1peak.ipynb**
   - Figure plotting COSMIC & WACCM occurence frequency comparison plots for paper
-- **Other COSMIC_WACCM_Plotting-Daviddata... notebooks**
-  - Plotting figures from sensitivity studies - each criteria set individually
 - **Criteria_Sensitivity_Plots.ipynb**
   - Plotting figures comparing sensitivity studies for the Supplementary Info - Combined figs for multiple criteria sets
 - **E_layer_densities_and_Crit_freqs.ipynb**
@@ -23,7 +21,7 @@
   - Loading/plotting magnetic contour line data from Wuhyu's 3 metal run, to use in plots of WACCM vs COSMIC occ freqs
 - **Solar Irradiance.ipynb**
   - Creating WACCM input files for solar min/max model runs (ssi, tsi, f107, kp, ap etc)
-- **SpE_Id_Algorithm_2023-12-07-NEW.ipynb**
+- **SpE_Id_Algorithm.ipynb**
   - Main SpE identification algorithm 
 - **WACCM_Mag_Lats_Interp.ipynb**
   - Interpolating WACCM Es occurrence freq data onto magnetic latitude
@@ -38,8 +36,3 @@
   - All input files are pulled from here (all folders within here are symbolic links from other places to prevent repo from getting too large)
 - **'Figures' folder**
   - All output figures are saved in here
-- **'Old_Notebooks' folder**
-  - Contains various old/unused notebooks e.g. from before I was using version control/old methods/whatever
-- **'Wuhu_WACCMXrun_notransport' folder**
-  - Contains plotting for an equivalent model run with no metal ion transport added, for comparison purposes. The contents haven't been checked/edited in a long time...
-    
