@@ -1,4 +1,6 @@
 ## *Characteristics of Sporadic E Layer occurrence in a global chemistry-climate model: a comparison with COSMIC-derived data*
+- **Contacts:** Tasha Aylett (n.m.aylett@leeds.ac.uk), John Plane (J.M.C.Plane@leeds.ac.uk), Dan Marsh (D.Marsh@leeds.ac.uk), Wuhu Feng (w.feng@ncas.ac.uk), David Themens (d.r.themens@bham.ac.uk)
+
 ### Notebooks for analysis and figure plotting 
 ## 
 
